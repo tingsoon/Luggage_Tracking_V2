@@ -1,0 +1,36 @@
+#first-panel-left {
+    min-width: 0rem;
+}
+
+#second-slide {
+    width: 40rem;
+}
+
+#last-slide {
+    min-width: 0rem;
+}
+
+#contact-info {
+    padding: 2rem;
+    width: 20rem;
+}
+
+#tableWrapper {
+    width: 30rem;
+}
+
+/* chartdiv css */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  
+#chartdiv {
+width: 100%;
+height: 500px;
+background-color: white;
+}
+
+#chartsize {
+    width: 38rem;
+    padding: 2rem;
+}
